@@ -1,4 +1,9 @@
 # LIBRARY APPLICATION
+->Library applicaton is consist of user login and admin login.
+->Where admin can add book,check book data status, check books present in the library ,suggested books.
+->In this website user can login through username and password .If user is new user they can create account.
+->User canadd book and user can suggest book which are required to them.
+
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
